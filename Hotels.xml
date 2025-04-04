@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <Hotel Rating="4.5">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.1">
+    <Name>Hotel2</Name>
+    <Phone>000-000-002</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>100</Number>
+      <Street>Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85002</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.8">
+    <Name>Hotel3</Name>
+    <Phone>000-000-003</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>85</Number>
+      <Street>Big Blvd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85003</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>Hotel4</Name>
+    <Phone>000-000-004</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>7</Number>
+      <Street>Main St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.5">
+    <Name>Hotel5</Name>
+    <Phone>000-000-005</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>400</Number>
+      <Street>Rural Ave</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85002</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.0">
+    <Name>Hotel6</Name>
+    <Phone>000-000-006</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>33</Number>
+      <Street>Apache Junk</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85006</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.6">
+    <Name>Hotel7</Name>
+    <Phone>000-000-007</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>555</Number>
+      <Street>Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85007</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.2">
+    <Name>Hotel8</Name>
+    <Phone>000-000-008</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>200</Number>
+      <Street>University Dr</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.8">
+    <Name>Hotel9</Name>
+    <Phone>000-000-009</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>99</Number>
+      <Street>Pickle Street</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85009</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <Name>Hotel10</Name>
+    <Phone>000-000-0010</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>321</Number>
+      <Street>Sunset sunrise</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85010</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
